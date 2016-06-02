@@ -1,0 +1,18 @@
+{
+  "name": "sails-mysql-session",
+  "description": "Sails adapter to store sessions in mysql.",
+  "version": "1.0.1",
+  "author": {
+    "name": "mydansun",
+    "email": "mydansun@gmail.com"
+  },
+  "main": "./index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "debug": "2.2.0",
+    "depd": "1.1.0",
+    "mysql-connection-manager": "0.0.13"
+  }
+}
